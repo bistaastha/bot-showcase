@@ -1,5 +1,5 @@
-# Some initial checkups
+# Contents
 
-- [ ] Item one
-- [ ] Item two
-- [ ] Item three - because why not
+- Contains sample review checklist
+- Applicant welcome document
+- Reviewer welcome document
