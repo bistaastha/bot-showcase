@@ -2,4 +2,4 @@
 
 - [ ] Item one
 - [ ] Item two
-- [ ] Item three - because why not
+- [ ] Item three
